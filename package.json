@@ -1,0 +1,15 @@
+{
+  "name": "state-to-zip3",
+  "version": "1.0.0",
+  "description": "One-off data project to create simple US State to US 3-digit zip mapping.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "author": "Jason Makhlouta",
+  "license": "ISC",
+  "dependencies": {
+    "zip3": "^1.0.4"
+  },
+  "type": "module"
+}
