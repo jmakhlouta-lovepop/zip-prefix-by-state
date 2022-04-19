@@ -8,7 +8,7 @@ United states zip code prefixes (the first 3 digits) generally map to the US sta
 
 Running the simple script yields a json document at `~/output/zip-prefix-by-state.json`.
 
-The data is sourced from an underlying NPM module that formats a state-to-zip-prefix mapping. That project claims to use https://en.wikipedia.org/wiki/List_of_ZIP_Code_prefixes as its source. Special thanks to https://github.com/billfienberg/zip3 for packaging the data in an easy to use way.
+The data is sourced from an underlying NPM module that relates zip prefixes to their corresponding states and cities. That project claims to use https://en.wikipedia.org/wiki/List_of_ZIP_Code_prefixes as its source. Special thanks to https://github.com/billfienberg/zip3 for packaging the data in an easy to use way.
 
 ## Usage
 
