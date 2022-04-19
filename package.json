@@ -1,5 +1,5 @@
 {
-  "name": "state-to-zip3",
+  "name": "zip-prefix-by-state",
   "version": "1.0.0",
   "description": "One-off data project to create simple US State to US 3-digit zip mapping.",
   "main": "main.js",
